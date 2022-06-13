@@ -1,0 +1,44 @@
+.form-total {
+  padding-left: 37%;
+  padding-top: 5%;
+}
+.heading {
+  padding-bottom : 3%;
+  padding-left: 33%;
+  font-size: 15pt;
+}
+.form-group {
+    padding-left: 12%;
+    width: 87%;
+    margin-bottom: 3.7%;
+  }
+
+  .date-calendar {
+    margin-bottom: 3.9%;
+    padding-left: 12%;
+  }
+
+  .display-date {
+    margin-bottom: 0.9%;
+    padding-left: 7%;
+  }
+
+  .label-bold {
+    font-size: 150%;
+  }
+
+  .date-bold {
+    font-size: 150%;
+    color: black;
+    padding-left: 23%;
+  }
+
+  .modalClass{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    padding-left: 15%;;
+  }
+
+  .cardform{
+    border-radius: 1.5%;
+  }
